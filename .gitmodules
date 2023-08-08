@@ -1,0 +1,6 @@
+[submodule "bdct-backend"]
+	path = bdct-backend
+	url = https://github.com/tonik/bdct-backend
+[submodule "bdct-frontend"]
+	path = bdct-frontend
+	url = https://github.com/tonik/bdct-frontend
